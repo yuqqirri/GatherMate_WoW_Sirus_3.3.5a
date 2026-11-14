@@ -5,7 +5,7 @@
 ## Title: GatherMateData
 ## Title-zhTW: GatherMateData 採集助手資料庫
 ## Title-zhCN: GatherMateData 采集助手数据库
-## Author: kagaro, Xinhuan, Ammo (review and sounding board)
+## Author: kagaro, Xinhuan, Ammo (review and sounding board), yuqqirri (Sirus adaptation)
 ## X-Category: Map
 ## X-Email: sal.scotto@gmail.com
 ## Version: 1.0

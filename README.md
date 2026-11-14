@@ -1,13 +1,21 @@
-# 🌿 GatherMate + GatherMate_Data (WoW Sirus 3.3.5a)
+<div align="center">
+  <img src="assets/logo.jpg" alt="GatherMate Sirus Logo" width="260" />
 
-![WoW Version](https://img.shields.io/badge/WoW-3.3.5a%20(WotLK)-blue)
-![Server](https://img.shields.io/badge/Server-Sirus.su-orange)
-![Version](https://img.shields.io/badge/Version-v1.23-brightgreen)
-![License](https://img.shields.io/badge/License-GPLv2-lightgrey)
+  # 🌿 GatherMate + GatherMate_Data (WoW Sirus 3.3.5a)
+
+  ![WoW Version](https://img.shields.io/badge/WoW-3.3.5a%20(WotLK)-blue)
+  ![Server](https://img.shields.io/badge/Server-Sirus.su-orange)
+  ![Version](https://img.shields.io/badge/Version-v1.23-brightgreen)
+  ![License](https://img.shields.io/badge/License-GPLv2-lightgrey)
+</div>
 
 Адаптированная версия **GatherMate** вместе с полной базой данных **GatherMate_Data** специально под актуальный клиент **WoW Sirus (3.3.5a)**.
 
 В стандартной версии GatherMate отсутствуют размеры и ID кастомных карт Сируса, из-за чего на новых островах (Тель'Абим, Тол'Гарод и др.) собранные ресурсы удаляли друг друга при сборе, а иконки прилипали к центру миникарты. В этой сборке проблема полностью исправлена, добавлена база ресурсов Тель'Абима и поддержка автообновления через **Sirus Launcher**.
+
+## 📸 Скриншот в игре (Остров Тель'Абим)
+
+![Карта Тель'Абима с ресурсами GatherMate](assets/telabim_map.jpg)
 
 ## ✨ Что изменено и добавлено в сборке под Sirus (v1.23)
 

@@ -9,12 +9,12 @@
 ## X-Credits: OttoDeFe for the launher icon.
 ## SavedVariables: GatherMateDB, GatherMateHerbDB, GatherMateMineDB, GatherMateFishDB, GatherMateGasDB, GatherMateTreasureDB
 ## X-Category: Map
-## Version: v1.22
+## Version: 1.23
 ## X-License: GPL v2
 ## OptionalDeps: Ace3, LibDataBroker-1.1
 ## LoadManagers: AddonLoader
 ## X-LoadOn-Always: delayed
-## X-Curse-Packaged-Version: v1.22
+## X-Curse-Packaged-Version: 1.23
 ## X-Curse-Project-Name: GatherMate
 ## X-Curse-Project-ID: gathermate
 ## X-Curse-Repository-ID: wow/gathermate/mainline

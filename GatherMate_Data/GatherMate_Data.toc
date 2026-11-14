@@ -8,11 +8,11 @@
 ## Author: kagaro, Xinhuan, Ammo (review and sounding board), yuqqirri (Sirus adaptation)
 ## X-Category: Map
 ## X-Email: sal.scotto@gmail.com
-## Version: 1.0
+## Version: 1.23
 ## LoadOnDemand: 1
 ## X-Generated-Version: $Revision: 275 $
 ## Dependencies: GatherMate
-## X-Curse-Packaged-Version: v2.25
+## X-Curse-Packaged-Version: 1.23
 ## X-Curse-Project-Name: GatherMate_Data
 ## X-Curse-Project-ID: gathermate_data
 ## X-Curse-Repository-ID: wow/gathermate_data/mainline

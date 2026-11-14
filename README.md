@@ -2,10 +2,10 @@
 
 ![WoW Version](https://img.shields.io/badge/WoW-3.3.5a%20(WotLK)-blue)
 ![Server](https://img.shields.io/badge/Server-Sirus.su-orange)
-![Version](https://img.shields.io/badge/Version-v1.22--sirus-brightgreen)
+![Version](https://img.shields.io/badge/Version-v1.23-brightgreen)
 ![License](https://img.shields.io/badge/License-GPLv2-lightgrey)
 
-Адаптированная версия **GatherMate (v1.22)** вместе с полной базой данных **GatherMate_Data (v2.25)** специально под актуальный клиент **WoW Sirus (3.3.5a)**.
+Адаптированная версия **GatherMate** вместе с полной базой данных **GatherMate_Data** специально под актуальный клиент **WoW Sirus (3.3.5a)**.
 
 В стандартной версии GatherMate отсутствуют размеры и ID кастомных карт Сируса, из-за чего на новых островах (Тель'Абим, Тол'Гарод и др.) собранные ресурсы удаляли друг друга при сборе, а иконки прилипали к центру миникарты. В этой сборке проблема полностью исправлена.
 

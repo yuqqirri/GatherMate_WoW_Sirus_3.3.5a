@@ -10,12 +10,14 @@
 ## X-Email: sal.scotto@gmail.com
 ## Version: 1.0
 ## LoadOnDemand: 1
-## X-Generated-Version: $Revision: 274 $
+## X-Generated-Version: $Revision: 275 $
 ## Dependencies: GatherMate
 ## X-Curse-Packaged-Version: v2.25
 ## X-Curse-Project-Name: GatherMate_Data
 ## X-Curse-Project-ID: gathermate_data
 ## X-Curse-Repository-ID: wow/gathermate_data/mainline
+## X-Sirus-Update: https://github.com/yuqqirri/GatherMate_WoW_Sirus_3.3.5a/tree/main/GatherMate_Data
+## X-Sirus-Category: 15
 
 MiningData.lua
 HerbalismData.lua

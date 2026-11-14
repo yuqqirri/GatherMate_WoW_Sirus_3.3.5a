@@ -18,6 +18,8 @@
 ## X-Curse-Project-Name: GatherMate
 ## X-Curse-Project-ID: gathermate
 ## X-Curse-Repository-ID: wow/gathermate/mainline
+## X-Sirus-Update: https://github.com/yuqqirri/GatherMate_WoW_Sirus_3.3.5a/tree/main/GatherMate
+## X-Sirus-Category: 15
 
 #@no-lib-strip@
 Libs\LibStub\LibStub.lua
